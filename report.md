@@ -19,6 +19,7 @@
 - Карты Discover. Имеют результат - валидных данных - (https://yadi.sk/i/-n3Dl533WZ5zZg, https://yadi.sk/i/JrtD2fEHEPl4gw, https://yadi.sk/i/hOwJd8YXSjzjfw);
 - Карты Maestro. Имеют результат - валидных данных (https://yadi.sk/i/mvLg5dzGzWe4Mw, https://yadi.sk/i/eW_M_UIV2fBj2w, https://yadi.sk/i/4u41ehH8-_TWmw)
 - Карты American Express. Невалидные - (https://github.com/Denis-Zhigun/javahw1-2/issues/1#issue-776611486)
+- Карты Diners Club - Carte Blanche. Невалидные - (https://github.com/Denis-Zhigun/javahw1-2/issues/2#issue-777060904)
 
 ### Тестирование производилось в следующем окружении:
 - Ноутбук Lenovo (17'')

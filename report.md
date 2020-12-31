@@ -13,10 +13,10 @@
 ### В процессе тестирования использовались следующие артефакты:
 - тест-кейсы для проверки функциональности валидации номеров банковских карт.
 
-### В качестве тестовых данных использовались данные [с сайта](https://www.getcreditcardnumbers.com/):
-- Карты Visa. Имеют результат - валидных данных - (https://yadi.sk/i/MhQSAGVmvTQZsQ);
-- Карты Mastercard. Имеют результат - валидных данных - (https://yadi.sk/i/WVO87YUnBhVZSw);
-- Карты Discover. Имеют результат - валидных данных - (https://yadi.sk/i/-n3Dl533WZ5zZg)
+### В качестве тестовых данных использовались данные с сайтов (https://www.getcreditcardnumbers.com/ и https://www.freeformatter.com/credit-card-number-generator-validator.html):
+- Карты Visa. Имеют результат - валидных данных - (https://yadi.sk/i/MhQSAGVmvTQZsQ, https://yadi.sk/i/Vwc-Fp864bZSHw);
+- Карты Mastercard. Имеют результат - валидных данных - (https://yadi.sk/i/WVO87YUnBhVZSw, https://yadi.sk/i/Up3nm94FpIW5cw, https://yadi.sk/i/4EKO1qanBDCC2g);
+- Карты Discover. Имеют результат - валидных данных - (https://yadi.sk/i/-n3Dl533WZ5zZg);
 - Карты American Express. Невалидные - (https://github.com/Denis-Zhigun/javahw1-2/issues/1#issue-776611486)
 
 ### Тестирование производилось в следующем окружении:
